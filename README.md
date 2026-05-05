@@ -57,9 +57,9 @@
 
 ### 📊 Vital Activity
 <!-- IMPORTANT: Replace YOUR_USERNAME below with your actual GitHub username -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=viviandre&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=viviandree&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviandre&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviandree&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ---
 
