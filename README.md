@@ -74,7 +74,7 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="mailto:yoshinovia@gmail.com">
+<a href="mailto:viandri.latief@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-9D57FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/yoshinovia">
