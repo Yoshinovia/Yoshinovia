@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D57FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;IoT+%26+Robotics+Developer;Digital+Artist;Next.js+%26+Laravel+Expert" alt="Typing SVG" />
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_Modern_Ecosystems-3ECF8E?style=flat-square" />
