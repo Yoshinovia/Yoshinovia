@@ -67,9 +67,9 @@
 
 
 ### 🏮 Current Mission
-- ⚡ **Engineering:** Scaling fullstack apps using Next.js, Laravel, and Supabase.
-- 🎨 **Creative:** Crafting custom UI components and IoT dashboards.
-- 💬 **Ask me about:** Micro-SaaS architecture, Arduino/C++, and UI/UX design.
+ ⚡ **Engineering:** Scaling fullstack apps using Next.js, Laravel, and Supabase.
+ 🎨 **Creative:** Crafting custom UI components and IoT dashboards.
+ 💬 **Ask me about:** Micro-SaaS architecture, Arduino/C++, and UI/UX design.
 
 <br>
 
